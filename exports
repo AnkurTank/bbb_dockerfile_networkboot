@@ -1,0 +1,1 @@
+/nfsboot *(rw,nohide,insecure,no_subtree_check,async,no_root_squash)
